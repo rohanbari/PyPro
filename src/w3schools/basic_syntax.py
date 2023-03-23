@@ -64,11 +64,13 @@ print(x + y + z)
 # Well, we all know that global variables are always DUMB, yet... let's use it
 global_var = "Hey!"
 
+
 def sayHi():
     print(global_var + " I'm a nerdy geek.")
 
     global sussy
     sussy = "Legendary power of Beluga!"
+
 
 sayHi()
 print(sussy)
