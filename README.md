@@ -8,7 +8,7 @@ make it better and helpful for the future visitors.
 
 ## Coding Environment
 
--   **Environment.** Ubuntu 22.04.1 LTS amd64
+-   **Environment.** Linux Mint 21.1 amd64
 -   **Editor.** Visual Studio Code
 -   **Interpreter.** Python 3.10.6
 
