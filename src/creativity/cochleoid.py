@@ -10,4 +10,5 @@ y = np.sin(t)**2 / t
 
 mpl.plot(x, y, lw=1.0)
 mpl.axis('off')
+mpl.axis('equal')
 mpl.show()
