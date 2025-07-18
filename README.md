@@ -3,7 +3,7 @@
 **Welcome to PyPro — embracing the Python technology!**
 
 The source code of each individual project is available under the [`src`](./src)
- directory. Feel free to make relevant changes to my code to
+directory. Feel free to make relevant changes to my code to
 make it better and helpful for the future visitors.
 
 ## Coding Environment
