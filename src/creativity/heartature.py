@@ -1,7 +1,7 @@
 # Heart-shaped graph using mathematics
 
-import numpy as np
 import matplotlib.pyplot as mp
+import numpy as np
 
 t = np.linspace(0, 2*np.pi, 100)
 

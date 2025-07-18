@@ -8,9 +8,9 @@ make it better and helpful for the future visitors.
 
 ## Coding Environment
 
--   **Environment.** Linux Mint 21.1 amd64
--   **Editor.** Visual Studio Code
--   **Interpreter.** Python 3.10.6
+-   **Environment.** Windows 11
+-   **Editor.** vs-code
+-   **Interpreter.** Python 3.13.5
 
 ## Contributing
 
@@ -23,5 +23,5 @@ Please refer to the [`LICENSE`](./LICENSE) file.
 
 ## Contact
 
--   **Email address.** rohanbari4@gmail.com
--   **Twitter.** [@\_rohanbari](https://twitter.com/_rohanbari)
+-   **Email.** rohanbari@outlook.com
+-   **X.** [@TheRohanBari](https://x.com/TheRohanBari)

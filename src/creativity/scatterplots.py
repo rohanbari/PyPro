@@ -10,7 +10,7 @@ y = np.random.rand(N)
 
 # Expansion of dots in [20, 120]
 window_size = (5, 5)
-size = 100*np.random.rand(N) + 20
+size = 100 * np.random.rand(N) + 20
 
 # Random colors
 colors = np.random.rand(N, 4)
